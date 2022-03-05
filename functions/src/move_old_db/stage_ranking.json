@@ -1,0 +1,1736 @@
+{
+    "monthlyVisitsEstimate": [
+        {
+            "val": 85240,
+            "title": "Lelong My"
+        },
+        {
+            "val": 94350,
+            "title": "Empathy"
+        },
+        {
+            "val": 345500,
+            "title": "Holdsport"
+        },
+        {
+            "val": 718000,
+            "title": "Employment Hero"
+        },
+        {
+            "val": 753800,
+            "title": "Blueland"
+        }
+    ],
+    "total_visitors": [
+        {
+            "title": "Easy, Free Interactive Maps in Minutes",
+            "val": -1
+        },
+        {
+            "val": -1,
+            "title": "Proxi"
+        },
+        {
+            "val": 51446,
+            "title": "Reebelo"
+        },
+        {
+            "title": "Glance",
+            "val": 732620
+        },
+        {
+            "title": "Bbc News",
+            "val": 465870000
+        }
+    ],
+    "app_store_downloads": [
+        {
+            "val": 0,
+            "title": "Simple Feast"
+        },
+        {
+            "title": "Get Lit",
+            "val": 1
+        },
+        {
+            "val": 2,
+            "title": "Classmate Health"
+        },
+        {
+            "val": 5,
+            "title": "Finary"
+        },
+        {
+            "val": 7,
+            "title": "Farner's Window"
+        },
+        {
+            "val": 8,
+            "title": "Secondly"
+        },
+        {
+            "title": "Quest Audio",
+            "val": 8
+        },
+        {
+            "val": 13,
+            "title": "Peekabond"
+        },
+        {
+            "title": "Beem Me",
+            "val": 14
+        },
+        {
+            "title": "Cogo",
+            "val": 21
+        },
+        {
+            "title": "Cogo",
+            "val": 21
+        },
+        {
+            "val": 22,
+            "title": "Buff Market"
+        },
+        {
+            "title": "Literal",
+            "val": 25
+        },
+        {
+            "val": 26,
+            "title": "Clear "
+        },
+        {
+            "title": "Clear",
+            "val": 27
+        },
+        {
+            "title": "Vidsig",
+            "val": 27
+        },
+        {
+            "val": 30,
+            "title": "Adent Health"
+        },
+        {
+            "title": "Nightingale Health",
+            "val": 35
+        },
+        {
+            "title": "Skin Bliss",
+            "val": 38
+        },
+        {
+            "title": "Zliide",
+            "val": 45
+        },
+        {
+            "title": "One Bite Better",
+            "val": 52
+        },
+        {
+            "title": "Smitten",
+            "val": 66
+        },
+        {
+            "val": 83,
+            "title": "Empathy"
+        },
+        {
+            "title": "Faves",
+            "val": 94
+        },
+        {
+            "title": "Pint Please",
+            "val": 104
+        },
+        {
+            "title": "Hallo",
+            "val": 127
+        },
+        {
+            "title": "Pastimes",
+            "val": 129
+        },
+        {
+            "title": "Lelong.my | Online Shopping in Malaysia - Electronics, Tablet, Fashion",
+            "val": 157
+        },
+        {
+            "val": 157,
+            "title": "Lelong.my"
+        },
+        {
+            "title": "Lelong My",
+            "val": 159
+        },
+        {
+            "title": "Friendspire",
+            "val": 360
+        },
+        {
+            "title": "Gronda",
+            "val": 800
+        },
+        {
+            "val": 801,
+            "title": "Gronda"
+        },
+        {
+            "val": 820,
+            "title": "Miiskin"
+        },
+        {
+            "val": 874,
+            "title": "Tonsser"
+        },
+        {
+            "title": "Sidechef",
+            "val": 1100
+        },
+        {
+            "title": "Holdsport",
+            "val": 1200
+        },
+        {
+            "val": 3300,
+            "title": "Calendly"
+        },
+        {
+            "title": "Fiskher",
+            "val": 4200
+        },
+        {
+            "title": "Gorillas",
+            "val": 5200
+        },
+        {
+            "title": "Lunar",
+            "val": 7000
+        },
+        {
+            "val": 22100,
+            "title": "Delectable"
+        },
+        {
+            "val": 29700,
+            "title": "Fishbrain"
+        },
+        {
+            "title": "Too Good To Go",
+            "val": 73200
+        },
+        {
+            "val": 85400,
+            "title": "Vivino"
+        },
+        {
+            "title": "Good Reads",
+            "val": 404500
+        },
+        {
+            "title": "Club House",
+            "val": 693900
+        }
+    ],
+    "play_market_downloads": [
+        {
+            "title": "Beepr",
+            "val": 0
+        },
+        {
+            "val": 0,
+            "title": "Break.is"
+        },
+        {
+            "title": "ByRotation",
+            "val": 0
+        },
+        {
+            "title": "Adent Health",
+            "val": 0
+        },
+        {
+            "val": 0,
+            "title": "Plantura"
+        },
+        {
+            "title": "Fiskher",
+            "val": 0
+        },
+        {
+            "title": "Vidsig",
+            "val": 0
+        },
+        {
+            "val": 0,
+            "title": "Secondly"
+        },
+        {
+            "val": 0,
+            "title": "Farner's Window"
+        },
+        {
+            "title": "We Are Eves",
+            "val": 0
+        },
+        {
+            "val": 0,
+            "title": "Nightingale Health"
+        },
+        {
+            "val": 0,
+            "title": "Relion"
+        },
+        {
+            "val": 0,
+            "title": "One Bite Better"
+        },
+        {
+            "title": "Get Lit",
+            "val": 0
+        },
+        {
+            "title": "Finuprise",
+            "val": 0
+        },
+        {
+            "title": "Literal",
+            "val": 0
+        },
+        {
+            "title": "Zliide",
+            "val": 0
+        },
+        {
+            "val": 0,
+            "title": "Wotwine"
+        },
+        {
+            "title": "Clear ",
+            "val": 0
+        },
+        {
+            "title": "Clear",
+            "val": 0
+        },
+        {
+            "title": "Cogo",
+            "val": 0
+        },
+        {
+            "title": "Lelong.my",
+            "val": 0
+        },
+        {
+            "title": "Lelong.my | Online Shopping in Malaysia - Electronics, Tablet, Fashion",
+            "val": 0
+        },
+        {
+            "val": 0,
+            "title": "Home - BBC News"
+        },
+        {
+            "title": "Skin Bliss",
+            "val": 0
+        },
+        {
+            "val": 0,
+            "title": "Miiskin"
+        },
+        {
+            "title": "Finary",
+            "val": 0
+        },
+        {
+            "title": "Empathy",
+            "val": 0
+        },
+        {
+            "title": "Holdsport",
+            "val": 0
+        },
+        {
+            "val": 7,
+            "title": "Classmate Health"
+        },
+        {
+            "title": "Peekabond",
+            "val": 11
+        },
+        {
+            "title": "Beem Me",
+            "val": 15
+        },
+        {
+            "title": "Simple Feast",
+            "val": 30
+        },
+        {
+            "val": 96,
+            "title": "Pastimes"
+        },
+        {
+            "title": "Cogo",
+            "val": 103
+        },
+        {
+            "title": "Buff Market",
+            "val": 106
+        },
+        {
+            "title": "Smitten",
+            "val": 749
+        },
+        {
+            "val": 790,
+            "title": "Pint Please"
+        },
+        {
+            "val": 863,
+            "title": "Hallo"
+        },
+        {
+            "val": 1211,
+            "title": "Calendly"
+        },
+        {
+            "val": 2245,
+            "title": "Friendspire"
+        },
+        {
+            "val": 5773,
+            "title": "Sidechef"
+        },
+        {
+            "val": 5830,
+            "title": "Delectable"
+        },
+        {
+            "val": 5942,
+            "title": "Gronda"
+        },
+        {
+            "title": "Gronda",
+            "val": 5948
+        },
+        {
+            "val": 6968,
+            "title": "Lunar"
+        },
+        {
+            "val": 11461,
+            "title": "Tonsser"
+        },
+        {
+            "title": "Tonsser",
+            "val": 11463
+        },
+        {
+            "title": "Lelong My",
+            "val": 12504
+        },
+        {
+            "title": "Gorillas",
+            "val": 15684
+        },
+        {
+            "val": 53898,
+            "title": "Fishbrain"
+        },
+        {
+            "title": "Good Reads",
+            "val": 129666
+        },
+        {
+            "val": 161923,
+            "title": "Vivino"
+        },
+        {
+            "title": "BBC",
+            "val": 406101
+        },
+        {
+            "title": "BBC News",
+            "val": 406380
+        },
+        {
+            "title": "Club House",
+            "val": 439191
+        },
+        {
+            "title": "Too Good To Go",
+            "val": 794968
+        }
+    ],
+    "ahrefs_rank": [
+        {
+            "title": "Spotify",
+            "val": 51
+        },
+        {
+            "val": 922,
+            "title": "upwork"
+        },
+        {
+            "val": 927,
+            "title": "DELETE_IT"
+        },
+        {
+            "title": "Shein",
+            "val": 10674
+        },
+        {
+            "title": "TestStartupToCheckTwitterValidity",
+            "val": 14541
+        },
+        {
+            "val": 60363,
+            "title": "Holdsport"
+        },
+        {
+            "val": 93624,
+            "title": "Lelong My"
+        },
+        {
+            "val": 139132,
+            "title": "Blueland"
+        },
+        {
+            "val": 152669,
+            "title": "Icon"
+        },
+        {
+            "title": "Home",
+            "val": 181896
+        },
+        {
+            "title": "Any Road",
+            "val": 182075
+        },
+        {
+            "val": 219551,
+            "title": "Sidechef"
+        },
+        {
+            "title": "Employment Hero",
+            "val": 264438
+        },
+        {
+            "title": "Cann",
+            "val": 528952
+        },
+        {
+            "title": "Empathy",
+            "val": 594785
+        },
+        {
+            "val": 781370,
+            "title": "Chamberlain Coffee"
+        },
+        {
+            "val": 822356,
+            "title": "Okteto"
+        },
+        {
+            "title": "Finary",
+            "val": 860544
+        },
+        {
+            "val": 2653413,
+            "title": "Aumio"
+        },
+        {
+            "title": "Beem Me",
+            "val": 2743928
+        },
+        {
+            "val": 8955145,
+            "title": "Appboxo"
+        },
+        {
+            "title": "Packfleet",
+            "val": 8962972
+        },
+        {
+            "title": "Freterium",
+            "val": 10600642
+        },
+        {
+            "title": "Stämm",
+            "val": 14800231
+        },
+        {
+            "title": "ARTXP",
+            "val": 18047370
+        },
+        {
+            "val": 24901016,
+            "title": "Quantrolox"
+        },
+        {
+            "title": "Earnipay",
+            "val": 27001810
+        },
+        {
+            "title": "Orkes",
+            "val": 32268030
+        },
+        {
+            "title": "Rubi",
+            "val": 41878463
+        },
+        {
+            "val": 67834662,
+            "title": "Mutonic"
+        }
+    ],
+    "twitter_followers": [
+        {
+            "val": 1,
+            "title": "Revem"
+        },
+        {
+            "val": 10,
+            "title": "Simple Feast"
+        },
+        {
+            "title": "Quantrolox",
+            "val": 13
+        },
+        {
+            "val": 16,
+            "title": "Perfumist"
+        },
+        {
+            "title": "Smitten",
+            "val": 21
+        },
+        {
+            "title": "Cogo",
+            "val": 22
+        },
+        {
+            "val": 22,
+            "title": "Cogo"
+        },
+        {
+            "title": "Break.is",
+            "val": 23
+        },
+        {
+            "title": "Faves",
+            "val": 23
+        },
+        {
+            "val": 24,
+            "title": "Orkes"
+        },
+        {
+            "title": "Peekabond",
+            "val": 27
+        },
+        {
+            "title": "BBC",
+            "val": 35
+        },
+        {
+            "title": "Ratoong",
+            "val": 36
+        },
+        {
+            "title": "Faer Isles Distillery",
+            "val": 36
+        },
+        {
+            "val": 37,
+            "title": "Raffle"
+        },
+        {
+            "title": "Zliide",
+            "val": 48
+        },
+        {
+            "title": "Holdsport",
+            "val": 54
+        },
+        {
+            "title": "Earkick",
+            "val": 80
+        },
+        {
+            "val": 92,
+            "title": "No No No"
+        },
+        {
+            "title": "Friendspire",
+            "val": 126
+        },
+        {
+            "title": "Orbital Machines",
+            "val": 214
+        },
+        {
+            "title": "Visby Medical",
+            "val": 261
+        },
+        {
+            "val": 283,
+            "title": "Quest Audio"
+        },
+        {
+            "title": "Scalero",
+            "val": 288
+        },
+        {
+            "title": "Fresh Land",
+            "val": 307
+        },
+        {
+            "title": "Nox Influencer",
+            "val": 320
+        },
+        {
+            "title": "Empathy",
+            "val": 349
+        },
+        {
+            "title": "Literal",
+            "val": 352
+        },
+        {
+            "val": 428,
+            "title": "Miiskin"
+        },
+        {
+            "val": 452,
+            "title": "Packfleet"
+        },
+        {
+            "val": 534,
+            "title": "Vidsig"
+        },
+        {
+            "title": "ByRotation",
+            "val": 575
+        },
+        {
+            "val": 679,
+            "title": "Beem Me"
+        },
+        {
+            "title": "Wotwine",
+            "val": 762
+        },
+        {
+            "title": "Stämm",
+            "val": 794
+        },
+        {
+            "title": "Lelong My",
+            "val": 805
+        },
+        {
+            "title": "Operabase",
+            "val": 981
+        },
+        {
+            "title": "Leapwork",
+            "val": 1022
+        },
+        {
+            "val": 1062,
+            "title": "Too Good To Go"
+        },
+        {
+            "title": "Sidechef",
+            "val": 1086
+        },
+        {
+            "val": 1091,
+            "title": "CanopyLab"
+        },
+        {
+            "title": "Tonsser",
+            "val": 1236
+        },
+        {
+            "val": 1494,
+            "title": "Home"
+        },
+        {
+            "val": 1498,
+            "title": "Any Road"
+        },
+        {
+            "val": 1982,
+            "title": "Pix"
+        },
+        {
+            "val": 2180,
+            "title": "Finary"
+        },
+        {
+            "title": "Soona",
+            "val": 2205
+        },
+        {
+            "title": "Lunar",
+            "val": 2299
+        },
+        {
+            "val": 2641,
+            "title": "Okteto"
+        },
+        {
+            "title": "The Org",
+            "val": 2814
+        },
+        {
+            "title": "Vinovest",
+            "val": 2894
+        },
+        {
+            "val": 3307,
+            "title": "Ciklum"
+        },
+        {
+            "val": 3386,
+            "title": "Flutterflow"
+        },
+        {
+            "title": "TEST StartUP (delete me)",
+            "val": 3386
+        },
+        {
+            "title": "Nightingale Health",
+            "val": 4080
+        },
+        {
+            "title": "Vue Storefront",
+            "val": 4208
+        },
+        {
+            "title": "Tandem",
+            "val": 4696
+        },
+        {
+            "title": "Delectable",
+            "val": 5581
+        },
+        {
+            "val": 5652,
+            "title": "Pint Please"
+        },
+        {
+            "val": 5731,
+            "title": "Draftbit"
+        },
+        {
+            "title": "Gorillas",
+            "val": 6201
+        },
+        {
+            "val": 6469,
+            "title": "Facebook"
+        },
+        {
+            "title": "Icon",
+            "val": 6837
+        },
+        {
+            "title": "Fishbrain",
+            "val": 6866
+        },
+        {
+            "title": "Gamer Pay",
+            "val": 7514
+        },
+        {
+            "title": "Buff Market",
+            "val": 8684
+        },
+        {
+            "title": "VEO",
+            "val": 9176
+        },
+        {
+            "val": 10845,
+            "title": "Adalo"
+        },
+        {
+            "title": "Whimsical",
+            "val": 14059
+        },
+        {
+            "val": 14520,
+            "title": "Launcher"
+        },
+        {
+            "val": 15426,
+            "title": "Calendly"
+        },
+        {
+            "title": "Vivino",
+            "val": 49923
+        },
+        {
+            "val": 95345,
+            "title": "Zendesk"
+        },
+        {
+            "title": "Shein",
+            "val": 411703
+        },
+        {
+            "val": 461171,
+            "title": "Club House"
+        },
+        {
+            "val": 3798903,
+            "title": "Good Reads"
+        },
+        {
+            "title": "Spotify",
+            "val": 5038259
+        },
+        {
+            "title": "Facebook / Meta",
+            "val": 13899423
+        },
+        {
+            "title": "DELETE_IT",
+            "val": 75653954
+        }
+    ],
+    "instagram_followers": [
+        {
+            "title": "Revem",
+            "val": 1
+        },
+        {
+            "val": 7,
+            "title": "Kodebaze"
+        },
+        {
+            "val": 17,
+            "title": "Beepr"
+        },
+        {
+            "val": 21,
+            "title": "Raffle"
+        },
+        {
+            "val": 23,
+            "title": "Payaut"
+        },
+        {
+            "title": "Buff Market",
+            "val": 47
+        },
+        {
+            "title": "Packfleet",
+            "val": 74
+        },
+        {
+            "title": "Farner's Window",
+            "val": 83
+        },
+        {
+            "val": 84,
+            "title": "Home"
+        },
+        {
+            "val": 85,
+            "title": "Any Road"
+        },
+        {
+            "title": "Earkick",
+            "val": 89
+        },
+        {
+            "title": "Replai",
+            "val": 162
+        },
+        {
+            "title": "Leap",
+            "val": 235
+        },
+        {
+            "title": "Peekabond",
+            "val": 332
+        },
+        {
+            "val": 371,
+            "title": "Relion"
+        },
+        {
+            "title": "Orbital Machines",
+            "val": 371
+        },
+        {
+            "val": 390,
+            "title": "Finuprise"
+        },
+        {
+            "title": "Cogo",
+            "val": 414
+        },
+        {
+            "val": 417,
+            "title": "Cogo"
+        },
+        {
+            "title": "Classmate Health",
+            "val": 457
+        },
+        {
+            "title": "Adent Health",
+            "val": 495
+        },
+        {
+            "val": 530,
+            "title": "The Org"
+        },
+        {
+            "val": 678,
+            "title": "Ratoong"
+        },
+        {
+            "title": "Get Lit",
+            "val": 780
+        },
+        {
+            "val": 946,
+            "title": "Faer Isles Distillery"
+        },
+        {
+            "title": "Stämm",
+            "val": 1006
+        },
+        {
+            "title": "Nightingale Health",
+            "val": 1298
+        },
+        {
+            "val": 1458,
+            "title": "Fiskher"
+        },
+        {
+            "val": 1489,
+            "title": "Pix"
+        },
+        {
+            "val": 1517,
+            "title": "Økoskabet"
+        },
+        {
+            "title": "One Bite Better",
+            "val": 1619
+        },
+        {
+            "title": "Faves",
+            "val": 2045
+        },
+        {
+            "val": 2413,
+            "title": "Zliide"
+        },
+        {
+            "val": 2607,
+            "title": "Secondly"
+        },
+        {
+            "title": "Operabase",
+            "val": 2883
+        },
+        {
+            "title": "Empathy",
+            "val": 3229
+        },
+        {
+            "title": "Launcher",
+            "val": 3904
+        },
+        {
+            "val": 3965,
+            "title": "Simple Feast"
+        },
+        {
+            "val": 4030,
+            "title": "Vidsig"
+        },
+        {
+            "val": 4034,
+            "title": "Skin Bliss"
+        },
+        {
+            "title": "Aumio",
+            "val": 4272
+        },
+        {
+            "val": 4344,
+            "title": "Ciklum"
+        },
+        {
+            "val": 4667,
+            "title": "Vuffeli"
+        },
+        {
+            "title": "Mesterlære",
+            "val": 5020
+        },
+        {
+            "title": "We Are Eves",
+            "val": 5949
+        },
+        {
+            "val": 6046,
+            "title": "Perfumist"
+        },
+        {
+            "val": 6933,
+            "title": "Delectable"
+        },
+        {
+            "val": 7714,
+            "title": "Literal"
+        },
+        {
+            "title": "Lelong My",
+            "val": 8498
+        },
+        {
+            "val": 8698,
+            "title": "Calendly"
+        },
+        {
+            "val": 11591,
+            "title": "Superb "
+        },
+        {
+            "title": "Superb",
+            "val": 11602
+        },
+        {
+            "title": "Pint Please",
+            "val": 12468
+        },
+        {
+            "title": "Smitten",
+            "val": 15243
+        },
+        {
+            "val": 16336,
+            "title": "Gronda - Discover the worlds culinary knowledge"
+        },
+        {
+            "title": "Sidechef",
+            "val": 16633
+        },
+        {
+            "title": "Vinovest",
+            "val": 17402
+        },
+        {
+            "val": 18626,
+            "title": "CanopyLab"
+        },
+        {
+            "title": "Finematter",
+            "val": 18890
+        },
+        {
+            "val": 19056,
+            "title": "Lunar"
+        },
+        {
+            "val": 22072,
+            "title": "Friendspire"
+        },
+        {
+            "val": 25541,
+            "title": "Plantura"
+        },
+        {
+            "val": 37273,
+            "title": "Fresh Land"
+        },
+        {
+            "title": "Icon",
+            "val": 44385
+        },
+        {
+            "title": "Vivino",
+            "val": 89097
+        },
+        {
+            "title": "Tonsser",
+            "val": 92695
+        },
+        {
+            "val": 93044,
+            "title": "Tonsser"
+        },
+        {
+            "title": "Fishbrain",
+            "val": 101290
+        },
+        {
+            "val": 108220,
+            "title": "Too Good To Go"
+        },
+        {
+            "val": 131472,
+            "title": "ByRotation"
+        },
+        {
+            "val": 144440,
+            "title": "Soona"
+        },
+        {
+            "title": "Club House",
+            "val": 177044
+        },
+        {
+            "title": "Gronda",
+            "val": 584290
+        },
+        {
+            "val": 584458,
+            "title": "Gronda"
+        },
+        {
+            "val": 913143,
+            "title": "Good Reads"
+        },
+        {
+            "title": "Facebook / Meta",
+            "val": 1761119
+        },
+        {
+            "val": 7629931,
+            "title": "Spotify"
+        },
+        {
+            "title": "Shein",
+            "val": 23147889
+        }
+    ],
+    "mocked_func": [
+        {
+            "val": 41880000,
+            "title": "upwork"
+        }
+    ],
+    "alexa_rank": [
+        {
+            "title": "Skin Bliss",
+            "val": 8503275
+        },
+        {
+            "title": "Intree",
+            "val": 7484600
+        },
+        {
+            "title": "Orbital Machines",
+            "val": 6895905
+        },
+        {
+            "val": 6126010,
+            "title": "Cogo"
+        },
+        {
+            "val": 6036765,
+            "title": "Rubi"
+        },
+        {
+            "title": "Ratoong",
+            "val": 5540399
+        },
+        {
+            "title": "IndyRiot",
+            "val": 5297807
+        },
+        {
+            "val": 5269211,
+            "title": "Pint Please"
+        },
+        {
+            "title": "Revem",
+            "val": 5127371
+        },
+        {
+            "title": "Clear ",
+            "val": 5111011
+        },
+        {
+            "val": 5038081,
+            "title": "Vidsig"
+        },
+        {
+            "val": 4796583,
+            "title": "Peekabond"
+        },
+        {
+            "title": "Faves",
+            "val": 4749253
+        },
+        {
+            "val": 3965465,
+            "title": "Insify Nl"
+        },
+        {
+            "val": 3858426,
+            "title": "Easy, Free Interactive Maps in Minutes"
+        },
+        {
+            "val": 3858426,
+            "title": "Proxi"
+        },
+        {
+            "val": 3650215,
+            "title": "We Are Eves"
+        },
+        {
+            "title": "No No No",
+            "val": 3305267
+        },
+        {
+            "title": "Scratcher",
+            "val": 3189269
+        },
+        {
+            "val": 3021861,
+            "title": "Clear"
+        },
+        {
+            "title": "Smitten",
+            "val": 2998231
+        },
+        {
+            "title": "Nightingale Health",
+            "val": 2886329
+        },
+        {
+            "title": "Payaut",
+            "val": 2636172
+        },
+        {
+            "title": "Vumonic",
+            "val": 2262199
+        },
+        {
+            "title": "Orkes",
+            "val": 2167509
+        },
+        {
+            "title": "Lighthall",
+            "val": 2152657
+        },
+        {
+            "title": "Fiskher",
+            "val": 2151628
+        },
+        {
+            "title": "Stämm",
+            "val": 2077356
+        },
+        {
+            "title": "Pastimes",
+            "val": 2069433
+        },
+        {
+            "val": 1999386,
+            "title": "Delectable"
+        },
+        {
+            "title": "Bottlebooks",
+            "val": 1976308
+        },
+        {
+            "title": "Aumio",
+            "val": 1964664
+        },
+        {
+            "val": 1916402,
+            "title": "Fresh Land"
+        },
+        {
+            "val": 1910359,
+            "title": "Freterium"
+        },
+        {
+            "title": "Perfumist",
+            "val": 1869437
+        },
+        {
+            "val": 1739947,
+            "title": "ByRotation"
+        },
+        {
+            "title": "OrderYOYO",
+            "val": 1704271
+        },
+        {
+            "val": 1681088,
+            "title": "Earnipay"
+        },
+        {
+            "val": 1632932,
+            "title": "Quest Audio"
+        },
+        {
+            "title": "Tonsser",
+            "val": 1572890
+        },
+        {
+            "title": "Replai",
+            "val": 1540162
+        },
+        {
+            "val": 1479848,
+            "title": "Tonsser"
+        },
+        {
+            "val": 1351636,
+            "title": "Raffle"
+        },
+        {
+            "val": 1318629,
+            "title": "Holdsport"
+        },
+        {
+            "title": "Spoke",
+            "val": 1316403
+        },
+        {
+            "val": 1307035,
+            "title": "Launcher"
+        },
+        {
+            "val": 1195539,
+            "title": "Literal"
+        },
+        {
+            "val": 1190301,
+            "title": "Miiskin"
+        },
+        {
+            "val": 1176672,
+            "title": "Visby Medical"
+        },
+        {
+            "title": "Gamer Pay",
+            "val": 1102495
+        },
+        {
+            "title": "Hallo",
+            "val": 1084271
+        },
+        {
+            "val": 1051164,
+            "title": "Friendspire"
+        },
+        {
+            "val": 1002021,
+            "title": "Scalero"
+        },
+        {
+            "val": 979426,
+            "title": "Scopio Labs"
+        },
+        {
+            "val": 911672,
+            "title": "Beem Me"
+        },
+        {
+            "val": 807502,
+            "title": "Finematter"
+        },
+        {
+            "val": 734413,
+            "title": "Schoolytics"
+        },
+        {
+            "val": 724097,
+            "title": "Simple Feast"
+        },
+        {
+            "title": "Club House",
+            "val": 663065
+        },
+        {
+            "val": 592592,
+            "title": "Mecho Autotech"
+        },
+        {
+            "title": "Gronda",
+            "val": 564367
+        },
+        {
+            "val": 562715,
+            "title": "Gronda - Discover the worlds culinary knowledge"
+        },
+        {
+            "title": "Gronda",
+            "val": 561138
+        },
+        {
+            "title": "Pix",
+            "val": 449935
+        },
+        {
+            "val": 415669,
+            "title": "Okteto"
+        },
+        {
+            "val": 396485,
+            "title": "Buff Market"
+        },
+        {
+            "val": 387153,
+            "title": "Lunar"
+        },
+        {
+            "val": 353035,
+            "title": "Ciklum"
+        },
+        {
+            "val": 345872,
+            "title": "Empathy"
+        },
+        {
+            "val": 263934,
+            "title": "Too Good To Go"
+        },
+        {
+            "val": 257276,
+            "title": "Finary"
+        },
+        {
+            "title": "Operabase",
+            "val": 247106
+        },
+        {
+            "title": "Plantura",
+            "val": 246409
+        },
+        {
+            "val": 241164,
+            "title": "Icon"
+        },
+        {
+            "val": 237173,
+            "title": "Appboxo"
+        },
+        {
+            "title": "Tandem",
+            "val": 209217
+        },
+        {
+            "title": "Leapwork",
+            "val": 205670
+        },
+        {
+            "val": 204493,
+            "title": "Any Road"
+        },
+        {
+            "title": "Home",
+            "val": 196892
+        },
+        {
+            "title": "Reebelo",
+            "val": 195712
+        },
+        {
+            "title": "Glance",
+            "val": 192590
+        },
+        {
+            "val": 190626,
+            "title": "Sidechef"
+        },
+        {
+            "title": "Cann",
+            "val": 183775
+        },
+        {
+            "val": 172049,
+            "title": "Fishbrain"
+        },
+        {
+            "val": 147701,
+            "title": "Chamberlain Coffee"
+        },
+        {
+            "val": 123678,
+            "title": "Superb "
+        },
+        {
+            "title": "Draftbit",
+            "val": 115928
+        },
+        {
+            "title": "Superb",
+            "val": 107171
+        },
+        {
+            "title": "Zipline",
+            "val": 107162
+        },
+        {
+            "val": 104201,
+            "title": "Splendid Spoon | Ready-to-eat, plant-based smoothies, soups, grain bowls, and noodles."
+        },
+        {
+            "title": "Vinovest",
+            "val": 81456
+        },
+        {
+            "title": "Vue Storefront",
+            "val": 78039
+        },
+        {
+            "title": "VEO",
+            "val": 75543
+        },
+        {
+            "title": "Lelong.my | Online Shopping in Malaysia - Electronics, Tablet, Fashion",
+            "val": 74071
+        },
+        {
+            "val": 74071,
+            "title": "Lelong.my"
+        },
+        {
+            "val": 73800,
+            "title": "Lelong My"
+        },
+        {
+            "title": "Census",
+            "val": 68330
+        },
+        {
+            "title": "Fathom",
+            "val": 58783
+        },
+        {
+            "val": 48176,
+            "title": "PopSQL"
+        },
+        {
+            "title": "Blueland",
+            "val": 46862
+        },
+        {
+            "title": "Employment Hero",
+            "val": 35697
+        },
+        {
+            "val": 31534,
+            "title": "Flutterflow"
+        },
+        {
+            "title": "TEST StartUP (delete me)",
+            "val": 31534
+        },
+        {
+            "title": "The Org",
+            "val": 22158
+        },
+        {
+            "title": "Soona",
+            "val": 21993
+        },
+        {
+            "title": "Adalo",
+            "val": 19336
+        },
+        {
+            "title": "TestStartupToCheckTwitterValidity",
+            "val": 10621
+        },
+        {
+            "title": "Vivino",
+            "val": 10400
+        },
+        {
+            "title": "Vivino",
+            "val": 10208
+        },
+        {
+            "title": "Disney",
+            "val": 7133
+        },
+        {
+            "val": 4810,
+            "title": "Whimsical"
+        },
+        {
+            "title": "Nox Influencer",
+            "val": 4321
+        },
+        {
+            "val": 1008,
+            "title": "lazada"
+        },
+        {
+            "title": "Lazada",
+            "val": 1006
+        },
+        {
+            "title": "Calendly",
+            "val": 400
+        },
+        {
+            "val": 376,
+            "title": "Shein"
+        },
+        {
+            "val": 343,
+            "title": "Good Reads"
+        },
+        {
+            "title": "upwork",
+            "val": 155
+        },
+        {
+            "title": "DELETE_IT",
+            "val": 155
+        },
+        {
+            "val": 147,
+            "title": "Zendesk"
+        },
+        {
+            "val": 128,
+            "title": "Home - BBC News"
+        },
+        {
+            "val": 128,
+            "title": "BBC News"
+        },
+        {
+            "title": "Bbc News",
+            "val": 127
+        },
+        {
+            "title": "BBC",
+            "val": 126
+        },
+        {
+            "val": 85,
+            "title": "Spotify"
+        },
+        {
+            "val": 6,
+            "title": "Facebook / Meta"
+        },
+        {
+            "val": 5,
+            "title": "Facebook"
+        }
+    ]
+}
